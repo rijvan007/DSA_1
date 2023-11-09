@@ -12,8 +12,7 @@ int power(int a, int b)
 
 int main()
 {
-    int a;
-    int b;
+    int a, b;
     cout << "Enter the 'a': ";
     cin >> a;
     cout << "Enter the 'b': ";
